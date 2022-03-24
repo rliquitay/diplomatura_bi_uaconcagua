@@ -5,3 +5,6 @@ Trabajos prácticos desarrollados en la Diplomatura de Bussiness Analytics de la
 
 * TP 7: Introducción a Python
 * TP 8: Machine Learning
+* TP 9: Clasificación
+* TP 10: Regresión
+* TP 11: Agrupación
